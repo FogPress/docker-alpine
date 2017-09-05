@@ -1,0 +1,17 @@
+repository:
+  name: docker-alpine
+  description: A Docker-friendly Alpine Linux base image
+  homepage: https://fogpress.com
+  private: false
+  has_issues: true
+  has_wiki: true
+  has_downloads: true
+  default_branch: master
+  allow_squash_merge: true
+  allow_merge_commit: true
+  allow_rebase_merge: true
+labels:
+- name: bug
+  color: CC0000
+- name: feature
+  color: 336699
